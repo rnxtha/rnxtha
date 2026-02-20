@@ -13,4 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--><div align="center">
+ <div align="center">
+  <img src="https://raw.githubusercontent.com/muhammadnurulahsan/muhammadnurulahsan/main/ahsan.gif" alt="Tech Banner" width="100%">
+</div>
+
+# Hi there, I'm [rn]! 👋
