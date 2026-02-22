@@ -18,4 +18,4 @@ Here are some ideas to get you started:
   <img src="https://raw.githubusercontent.com/muhammadnurulahsan/muhammadnurulahsan/main/ahsan.gif" alt="Tech Banner" width="100%">
 </div>
 
-# Hi there, I'm [rn]! 👋
+# Hi there, I'm rajan! 👋
